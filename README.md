@@ -1,5 +1,16 @@
 # Praktikum_PBO
 
+- [x] : **Pertemuan 1**
+- [x] : **Pertemuan 2**
+- [ ] : **Pertemuan 3**
+- [ ] : **Pertemuan 4**
+- [ ] : **Pertemuan 5**
+- [ ] : **Pertemuan 6**
+- [ ] : **Pertemuan 7**
+- [ ] : **Pertemuan 8**
+- [ ] : **Pertemuan 9**
+- [ ] : **Pertemuan 10**
+
 ## Nama Lengkap
 **Heru Triana**
 
