@@ -20,7 +20,7 @@ public class MatematikaBeraksi {
         
         System.out.println();
         
-        System.out.println("Superclass Matematika2()");
+        System.out.println("Subclass Matematika2()");
         Matematika2 mtk2 = new Matematika2();
         System.out.println("Pertambahan : 20 + 10 = " + mtk2.pertambahan(20, 10));
         System.out.println("Pengurangan : 10-5 = " + mtk2.pengurangan(10, 5));
