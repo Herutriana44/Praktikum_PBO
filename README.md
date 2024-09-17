@@ -3,7 +3,7 @@
 - [x] : **Pertemuan 1**
 - [x] : **Pertemuan 2**
 - [x] : **Pertemuan 3**
-- [ ] : **Pertemuan 4**
+- [x] : **Pertemuan 4**
 - [ ] : **Pertemuan 5**
 - [ ] : **Pertemuan 6**
 - [ ] : **Pertemuan 7**
