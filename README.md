@@ -4,7 +4,7 @@
 - [x] : **Pertemuan 2**
 - [x] : **Pertemuan 3**
 - [x] : **Pertemuan 4**
-- [ ] : **Pertemuan 5**
+- [x] : **Pertemuan 5**
 - [ ] : **Pertemuan 6**
 - [ ] : **Pertemuan 7**
 - [ ] : **Pertemuan 8**
