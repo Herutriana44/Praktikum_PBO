@@ -24,7 +24,7 @@ public class Customer extends People implements CustomerActivity
     @Override
     public void pesanKamar(Kamar kamar, String tanggal_pesan){
         System.out.println("Anda memilih kamar" + kamar.idKamar);
-        this.kamar = new Kamar();
+        this.kamar = new Kamar(kamar.idKamar);
         this.kamar.Reservasi(this.id, tanggal_pesan);
         this.kamar.setStatus("Sudah Terisi");
         this.kamar.cek();

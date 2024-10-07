@@ -14,6 +14,11 @@ public class Kamar {
     public String tanggalReservasi = "";
     private String status = "Belum terisi";
     
+    public Kamar(int id)
+    {
+        this.idKamar = id;
+    }
+    
     public void Reservasi(int id_cust, String tanggal)
     {
         this.idCust = id_cust;
@@ -25,7 +30,7 @@ public class Kamar {
         this.status = status;
     }
     
-    void cek()
+    public void cek()
     {
         System.out.println("Id Kamar\t: "+this.idKamar);
         System.out.println("Id Customer\t: "+this.idCust);
@@ -33,7 +38,7 @@ public class Kamar {
         System.out.println("Status\t: "+this.status);
     }
     
-    void info()
+    public void info()
     {
         System.out.println("Id Kamar\t: "+this.idKamar);
         System.out.println("Status\t: "+this.status);
